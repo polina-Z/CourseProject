@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Strix/Desktop/Git/CourseProject/GameGalaxy/GameGalaxy/Content/backgroundGameOver.jfif</File>
+    <File>C:/Users/Strix/Desktop/Git/CourseProject/GameGalaxy/GameGalaxy/Content/backgroundStart.jpg</File>
+    <File>C:/Users/Strix/Desktop/Git/CourseProject/GameGalaxy/GameGalaxy/Content/Boom.wav</File>
+    <File>C:/Users/Strix/Desktop/Git/CourseProject/GameGalaxy/GameGalaxy/Content/boomShip.mp3</File>
+    <File>C:/Users/Strix/Desktop/Git/CourseProject/GameGalaxy/GameGalaxy/Content/C.png</File>
+    <File>C:/Users/Strix/Desktop/Git/CourseProject/GameGalaxy/GameGalaxy/Content/Enemy1.png</File>
+    <File>C:/Users/Strix/Desktop/Git/CourseProject/GameGalaxy/GameGalaxy/Content/Enemy2.png</File>
+    <File>C:/Users/Strix/Desktop/Git/CourseProject/GameGalaxy/GameGalaxy/Content/Enemy3.png</File>
+    <File>C:/Users/Strix/Desktop/Git/CourseProject/GameGalaxy/GameGalaxy/Content/EnemyShot.png</File>
+    <File>C:/Users/Strix/Desktop/Git/CourseProject/GameGalaxy/GameGalaxy/Content/File.spritefont</File>
+    <File>C:/Users/Strix/Desktop/Git/CourseProject/GameGalaxy/GameGalaxy/Content/Galaxy.spritefont</File>
+    <File>C:/Users/Strix/Desktop/Git/CourseProject/GameGalaxy/GameGalaxy/Content/GameOver.mp3</File>
+    <File>C:/Users/Strix/Desktop/Git/CourseProject/GameGalaxy/GameGalaxy/Content/GameScreen.jpg</File>
+    <File>C:/Users/Strix/Desktop/Git/CourseProject/GameGalaxy/GameGalaxy/Content/Heart.png</File>
+    <File>C:/Users/Strix/Desktop/Git/CourseProject/GameGalaxy/GameGalaxy/Content/MadeBy.spritefont</File>
+    <File>C:/Users/Strix/Desktop/Git/CourseProject/GameGalaxy/GameGalaxy/Content/Pause.jpg</File>
+    <File>C:/Users/Strix/Desktop/Git/CourseProject/GameGalaxy/GameGalaxy/Content/PauseSong.mp3</File>
+    <File>C:/Users/Strix/Desktop/Git/CourseProject/GameGalaxy/GameGalaxy/Content/Shot.png</File>
+    <File>C:/Users/Strix/Desktop/Git/CourseProject/GameGalaxy/GameGalaxy/Content/shot.wav</File>
+    <File>C:/Users/Strix/Desktop/Git/CourseProject/GameGalaxy/GameGalaxy/Content/shotSound.mp3</File>
+    <File>C:/Users/Strix/Desktop/Git/CourseProject/GameGalaxy/GameGalaxy/Content/song1.mp3</File>
+    <File>C:/Users/Strix/Desktop/Git/CourseProject/GameGalaxy/GameGalaxy/Content/Spaceship.png</File>
+    <File>C:/Users/Strix/Desktop/Git/CourseProject/GameGalaxy/GameGalaxy/Content/Star.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>backgroundGameOver</File>
+    <File>backgroundStart</File>
+    <File>Boom</File>
+    <File>boomShip</File>
+    <File>C</File>
+    <File>Enemy1</File>
+    <File>Enemy2</File>
+    <File>Enemy3</File>
+    <File>EnemyShot</File>
+    <File>Screensaver</File>
+    <File>Galaxy</File>
+    <File>GameOver</File>
+    <File>GameScreen</File>
+    <File>Heart</File>
+    <File>MadeBy</File>
+    <File>Pause</File>
+    <File>PauseSong</File>
+    <File>Shot</File>
+    <File>ShotSound1</File>
+    <File>shotSound</File>
+    <File>song1</File>
+    <File>MainSpaceship</File>
+    <File>Star</File>
+  </DestFiles>
+</SourceFileCollection>
