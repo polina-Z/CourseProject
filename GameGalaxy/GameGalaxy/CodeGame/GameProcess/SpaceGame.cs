@@ -243,6 +243,7 @@ namespace GameGalaxy
                     if(HeartNumber <= 0)
                     {
                         AddToTxt();
+                        AddCurrentScore();
                     }
                 }
             }
@@ -296,6 +297,7 @@ namespace GameGalaxy
                     if (HeartNumber <= 0)
                     {
                         AddToTxt();
+                        AddCurrentScore();
                     }
                 }
             }
@@ -337,6 +339,14 @@ namespace GameGalaxy
                 output.Write(_score.ToString());
                 output.Close();
             }
+        }
+
+        private static void AddCurrentScore()
+        {
+            File.Delete(@"YourScore.txt");
+            StreamWriter output = new StreamWriter(@"YourScore.txt", true);
+            output.Write(_score.ToString());
+            output.Close();            
         }
     }
 }
